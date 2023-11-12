@@ -120,7 +120,8 @@ sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm")
 plt.title("Correlation Matrix")
 plt.show()
 ```
-<img width="739" alt="image" src="https://github.com/TejaswiniGugananthan/Mini-Project/assets/121222763/0de38c2a-bd26-489d-b526-0846072540bc">
+![image](https://github.com/Leann4468/Mini-Project/assets/121165979/d6657d5c-7cba-4816-99ef-97371f008c35)
+
 
 ```python
 import pandas as pd
